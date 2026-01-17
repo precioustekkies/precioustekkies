@@ -1,0 +1,173 @@
+NIH Funded Articles
+
+[Objectively Coding Intervention Fidelity](http://www.annexpublishers.co/full-text/JOO/1102/Objectively-Coding-Intervention-Fidelity-During-A-Phone-Based-Obesity-Prevention-Study.php "Objectively Coding Intervention Fidelity During A Phone-Based Obesity Prevention Study")
+
+[Recent Publications](https://www.annexpublishers.com/all-recent-articles.php "View Recent Articles Articles")
+
+- ![Journal of Biochemistry and Biophysics](https://www.annexpublishers.co/JSAP1/oamsecure/up_images/home_slider/122jhome_image25.jpg)
+- ![Journal of Biochemistry and Biophysics](https://www.annexpublishers.co/JSAP1/oamsecure/up_images/home_slider/124jhome_image25.jpg)
+
+#### Journal of Biochemistry and Biophysics
+
+[Aims and Scope](https://www.annexpublishers.com/journals/journal-of-biochemistry-and-biophysics/aims-and-scope.php "Aim and Scope") [Editorial Board](https://www.annexpublishers.com/journals/journal-of-biochemistry-and-biophysics/editorial-board.php "Editorial Board") [Instructions For Authors](https://www.annexpublishers.com/guidelines.php "For Authors") [Articles in Press](https://www.annexpublishers.com/journals/journal-of-biochemistry-and-biophysics/articles-in-press.php "Articles in Press") [Articles In Process](https://www.annexpublishers.com/journals/journal-of-biochemistry-and-biophysics/articles-in-process.php "Articles In Process") [Current Issue](https://www.annexpublishers.com/journals/journal-of-biochemistry-and-biophysics/current-issue.php "Current Issue") [Archive](https://www.annexpublishers.com/journals/journal-of-biochemistry-and-biophysics/archive.php "Archive") [Submit Manuscript](https://www.annexpublishers.com/paper-submission.php?journal=25 "Submit Manuscript")
+
+Scientific Research Highlights
+
+[![learn more](https://www.annexpublishers.co/JSAP1/oamsecure/rh_images/289rh_image.jpg)](http://www.ncbi.nlm.nih.gov/pubmed/24391660)
+
+#### [Identification and interrogation of combinatorial histone modifications](http://www.ncbi.nlm.nih.gov/pubmed/24391660)
+
+Histone proteins are dynamically modified to mediate a variety of cellular processes including gene transcription, DNA damage repair, and apoptosis. Regulation of these processes occurs through the recruitment of non-histone proteins to chromatin by specific combinations of histone post-translational modifications (PTMs).
+
+[![learn more](https://www.annexpublishers.co/JSAP1/oamsecure/rh_images/288rh_image.jpg)](http://www.ncbi.nlm.nih.gov/pubmed/24392198)
+
+#### [Closed loop adaptive optics for microscopy without a wavefront sensor](http://www.ncbi.nlm.nih.gov/pubmed/24392198)
+
+A three-dimensional wide-field image of a small fluorescent bead contains more than enough information to accurately calculate the wavefront in the microscope objective back pupil plane using the phase retrieval technique.
+
+[![learn more](https://www.annexpublishers.co/JSAP1/oamsecure/rh_images/292rh_image.jpg)](http://www.ncbi.nlm.nih.gov/pubmed/24363023)
+
+#### [Quantitative single-cell RNA-seq with unique molecular identifiers](http://www.ncbi.nlm.nih.gov/pubmed/24363023)
+
+Single-cell RNA sequencing (RNA-seq) is a powerful tool to reveal cellular heterogeneity, discover new cell types and characterize tumor microevolution. However, losses in cDNA synthesis and bias in cDNA amplification lead to severe quantitative errors.
+
+[![learn more](https://www.annexpublishers.co/JSAP1/oamsecure/rh_images/295rh_image.jpg)](http://www.ncbi.nlm.nih.gov/pubmed/24359273)
+
+#### [The Nonenzymatic Decomposition of Guanidines and Amidines](http://www.ncbi.nlm.nih.gov/pubmed/24359273)
+
+To establish the rates and mechanisms of decomposition of guanidine and amidine derivatives in aqueous solution and the rate enhancements produced by the corresponding enzymes, we examined their rates of reaction at elevated temperatures and used the Arrhenius equation to extrapolate the results to room temperature.
+
+[![learn more](https://www.annexpublishers.co/JSAP1/oamsecure/rh_images/296rh_image.jpg)](http://www.ncbi.nlm.nih.gov/pubmed/24316737)
+
+#### [Genomic mining of prokaryotic repressors for orthogonal logic gates](http://www.ncbi.nlm.nih.gov/pubmed/24316737)
+
+Genetic circuits perform computational operations based on interactions between freely diffusing molecules within a cell. When transcription factors are combined to build a circuit, unintended interactions can disrupt its function. Here, we apply \\'part mining\\' to build a library of 73 TetR-family repressors gleaned from prokaryotic genomes.
+
+Stop
+
+## WE HELP YOU
+
+### TO FIND
+
+- [List of Journals](https://www.annexpublishers.com/list-of-journals.php "List of Journals")
+- [Submit Manuscript](https://www.annexpublishers.com/paper-submission.php "Submit Manuscript")
+- [Authors Guidelines](https://www.annexpublishers.com/guidelines.php "Author Guidelines")
+- [Editors Guidelines](https://www.annexpublishers.com/editor-guidelines.php "Editor Guidelines")
+
+## INDEXING
+
+### ABSTRACTING
+
+[![](https://www.annexpublishers.com/images/whatsapp.png)](https://api.whatsapp.com/send?phone=+16602408845&text=Hi%20Annexpublishers)
+
+[![](https://www.annexpublishers.com/indexing/ici-i.jpg)](https://journals.indexcopernicus.com/)[![](https://www.annexpublishers.com/indexing/cross.jpg)](https://www.crossref.org/titleList/)[![](https://www.annexpublishers.com/indexing/googlescholar.jpg)](https://scholar.google.co.in/)[![](https://www.annexpublishers.com/indexing/citefactor.jpg)](https://www.citefactor.org/)[![](https://www.annexpublishers.com/indexing/icmje.jpg)](https://www.icmje.org/)[![](https://www.annexpublishers.com/indexing/rb.jpg)](https://www.researchbib.com/?)[![](https://www.annexpublishers.com/indexing/ak.jpg)](https://academickeys.com/all/choose_discipline.php?go=academicresources)[![](https://www.annexpublishers.com/indexing/genemics.jpg)](https://journalseek.net/cgi-bin/journalseek/journalsearch.cgi?query=2348-9820&field=title&editorID=&send=Search+Title%2FISSN+Only)[![](https://www.annexpublishers.com/indexing/hardvard.jpg)](https://library.harvard.edu/)[![](https://www.annexpublishers.com/indexing/scilit.jpg)](https://www.scilit.net/about)[![](https://www.annexpublishers.com/indexing/mend.jpg)](https://www.mendeley.com/)[![](https://www.annexpublishers.com/indexing/worldact.jpg)](https://www.worldcat.org/)[![](https://www.annexpublishers.com/indexing/asi.jpg)](https://journal-index.org/index.php/asi)[![](https://www.annexpublishers.com/indexing/pbn.jpg)](https://pbn-test.opi.org.pl/sedno-webapp/about)
+
+- ### Journal of Biochemistry and Biophysics
+
+![Journal of Biochemistry and Biophysics](https://www.annexpublishers.co/JSAP1/oamsecure/up-images/journal-icons/25jhome-icon.jpg)
+
+
+**Journal of Biochemistry and Biophysics** **(JBB)** is a peer reviewed open access journal providing a chance to researchers and scientists to explore the advanced and latest research developments within the field of Biochemistry and Biophysics. Journal of Biochemistry and Biophysics publishes the best quality scientific articles amalgamating broad vary of fields together with the fields associated with Biochemistry and Biophysics.
+
+- ### Online Submission System
+
+![Online Submission System](https://www.annexpublishers.com/journals/j-images/online-submission.jpg)
+
+Journal of Biochemistry and Biophysics is using online manuscript submission, review and tracking systems for quality and quick review processing. Review processing is performed by the editorial board members of Journal of Biochemistry and Biophysics or outside experts; at least two independent reviewer's approval followed by editor approval is required for acceptance of any citable manuscript.
+
+
+Submit Manuscript
+Please choose the JournalJournal of Veterinary Science and Animal HusbandryJournal of Materials Science and NanotechnologyJournal of Pharmaceutics & Drug DevelopmentJournal of Forensic Science & CriminologyJournal of Case Reports and StudiesJournal of Nutrition and Health SciencesJournal of Cancer Science and Clinical OncologyJournal of Proteomics and GenomicsJournal of Computational Systems BiologyClinical and Experimental Research in CardiologyJournal of Biochemistry and BiophysicsJournal of Immunology and Infectious DiseasesJournal of Nanoscience & TechnologyJournal of Neurology and Neurological DisordersJournal of Microbiology and Modern TechniquesJournal of Bioequivalence StudiesJournal of Hematology and Blood DisordersJournal of Antibiotics ResearchJournal of Obesity and OverweightJournal of Biostatistics and Biometric ApplicationsJournal of Genetic Mutation DisordersJournal of Clinical and Experimental GeneticsJournal of Gynecology ResearchJournal of Paediatrics and Neonatal DisordersJournal of AIDS and HIV InfectionsJournal of Anesthesia and Patient CareJournal of Dentistry and Oral Care MedicineJournal of Stem Cells and Clinical PracticeJournal of Gastroenterology and its ComplicationsJournal of Bioterrorism and BiosafetyJournal of Cell Biology and HistologyJournal of Advances in Radiology and Medical ImagingJournal of Surgery and Operative CareJournal of Biomedical Research & StudiesJournal of Parkinsonism & TherapyJournal of Physical Medicine & Rehabilitation StudiesJournal of Psychiatry and Mental IllnessJournal of Insomnia and Sleep DisordersJournal of Arthritis & Rheumatology ResearchJournal of Dermatology and DermatopathologyJournal of Nephrology and Kidney DiseasesJournal of Neonatal CareJournal of Diabetic Complications & TherapyJournal of Endocrinology & Research StudiesJournal of Pancreatic Disorders & ResearchJournal of Spine & NeurobiologyJournal of Advancements in Food TechnologyJournal of Energy Resources and ConversionJournal of Aging & Gerontology ResearchJournal of Respiratory Diseases & TreatmentJournal of Hypertension and its ComplicationsJournal of Nursing and Patient Health CareJournal of Bioanalytical Methods and TechniquesJournal of Ophthalmology & Eye CareJournal of Otolaryngology StudiesJournal of Palliative Medical Care & ResearchJournal of Waste Resources and RecyclingJournal of Cytology and Histopathology ResearchJournal of Horticultural Science and Crop ResearchJournal of Marine Biology and Aquatic ResearchJournal of Public Health Hygiene and SafetyJournal of Waste Management and ReprocessingJournal of Health Science StudiesJournal of Neurodegenerative Disorders & ResearchJournal of Neuropsychiatry Disorders & TherapyJournal of Advances in Virology ResearchJournal of Orthopaedics and PhysiotherapyJournal of Addiction Research & TreatmentJournal of Clinical Trials & Experimental StudiesJournal of Angiology and LymphologyJournal of Emergency Medicine and CareJournal of Analytical Toxicology & Environmental StudyJournal of Plant Sciences and Crop ProtectionJournal of Industrial Pollution and ToxicityJournal of Environmental Pollution and ControlJournal of Ergonomics & Advanced ResearchJournal of Genetic and Hereditary ResearchJournal of Vaccines & Vaccination StudiesJournal of Medicinal Chemistry & StudiesJournal of Medicine & Biological StudiesJournal of Vascular Health and SurgeryJournal of Alzheimers Disease & Research
+
+[Article Processing Charges](https://www.annexpublishers.com/article-processing-charges.php?journal=25)
+
+### Subscribe here
+
+[![](https://www.annexpublishers.com/journals/journal-of-biochemistry-and-biophysics/images/whatsapp.png)](https://api.whatsapp.com/send?phone=+16602408845&text=Hi%20Annexpublishers)
+
+[![](https://www.annexpublishers.com/indexing/cross.jpg)](https://www.crossref.org/titleList/)
+
+[![](https://www.annexpublishers.com/indexing/ici-i.jpg)](https://journals.indexcopernicus.com/)
+
+[![](https://www.annexpublishers.com/indexing/googlescholar.jpg)](https://scholar.google.co.in/)
+
+[![](https://www.annexpublishers.com/indexing/citefactor.jpg)](https://www.citefactor.org/)
+
+[![](https://www.annexpublishers.com/indexing/icmje.jpg)](https://www.icmje.org/)
+
+[![](https://www.annexpublishers.com/indexing/rb.jpg)](https://www.researchbib.com/?)
+
+[![](https://www.annexpublishers.com/indexing/ak.jpg)](https://academickeys.com/all/choose_discipline.php?go=academicresources)
+
+[![](https://www.annexpublishers.com/indexing/genemics.jpg)](https://journalseek.net/cgi-bin/journalseek/journalsearch.cgi?query=2348-9820&field=title&editorID=&send=Search+Title%2FISSN+Only)
+
+[![](https://www.annexpublishers.com/indexing/hardvard.jpg)](https://library.harvard.edu/)
+
+[![](https://www.annexpublishers.com/indexing/scilit.jpg)](https://www.scilit.net/about)
+
+[![](https://www.annexpublishers.com/indexing/mend.jpg)](https://www.mendeley.com/)
+
+[![](https://www.annexpublishers.com/indexing/worldact.jpg)](https://www.worldcat.org/)
+
+[![](https://www.annexpublishers.com/indexing/asi.jpg)](https://journal-index.org/index.php/asi)
+
+[![](https://www.annexpublishers.com/indexing/pbn.jpg)](https://pbn-test.opi.org.pl/sedno-webapp/about)
+
+## Partnered Content Networks
+
+- [![Cancer Science](https://www.annexpublishers.com/images/media-partners/cancerscience.png)](https://cancerscience.net/ "Cancer Science")
+- [![Vaccine Studies](https://www.annexpublishers.com/images/media-partners/vaccine-studies.png)](https://vaccine-studies.com/ "Vaccine Studies")
+- [![Gynecology](https://www.annexpublishers.com/images/media-partners/gynecology.png)](https://gynecology.blog/ "Gynecology")
+- [![Food Nutrition](https://www.annexpublishers.com/images/media-partners/food-nutrition.png)](https://food-nutrition.blog/ "Food Nutrition")
+- [![Nursing Science](https://www.annexpublishers.com/images/media-partners/nursing-science.png)](https://nursing-science.com/ "Nursing Science")
+- [![Public Health](https://www.annexpublishers.com/images/media-partners/public-health.png)](https://public-health.blog/ "Public Health")
+- [![The Pharma](https://www.annexpublishers.com/images/media-partners/thepharma.png)](https://thepharma.net/ "The Pharma")
+- [![Infectious Disease](https://www.annexpublishers.com/images/media-partners/infectious-disease.png)](https://infect.blog/ "Infectious Diseases")
+- [![Neuro Care](https://www.annexpublishers.com/images/media-partners/neurocare.png)](https://neurocare.blog/ "Neuro Care")
+- [![Catalysis](https://www.annexpublishers.com/images/media-partners/catalysis.png)](https://catalysis.blog/ "Catalysis")
+- [![Neonatal Biology](https://www.annexpublishers.com/images/media-partners/neonatalbiology.png)](https://neonatalbiology.com/ "Neonatal Biology")
+- [![Neonatal Disorders](https://www.annexpublishers.com/images/media-partners/neonataldisorders.png)](https://neonataldisorders.com/ "Neonatal Disorders")
+- [![Mutation](https://www.annexpublishers.com/images/media-partners/mutation.png)](https://mutation.blog/ "Mutation")
+- [![Nanotechnology](https://www.annexpublishers.com/images/media-partners/nanotechnology.png)](https://nanotechnology.blog/ "Nanotechnology")
+- [![Toxicology](https://www.annexpublishers.com/images/media-partners/toxicology.png)](https://toxicology.blog/ "Toxicology")
+- [![Dark Biotechnology](https://www.annexpublishers.com/images/media-partners/darkbiotechnology.png)](https://darkbiotechnology.com/ "Dark Biotechnology")
+- [![Pollution Toxicology](https://www.annexpublishers.com/images/media-partners/pollutiontoxicology.png)](https://pollutiontoxicology.com/ "Pollution Toxicology")
+- [![Cell Biology](https://www.annexpublishers.com/images/media-partners/cellbiology.png)](https://cellbiology.blog/ "Cell Biology")
+- [![Bioanalytical Research](https://www.annexpublishers.com/images/media-partners/bioanalyticalresearch.png)](https://bioanalyticalresearch.com/ "Bioanalytical Research")
+- [![Renal Disorders](https://www.annexpublishers.com/images/media-partners/renaldisorders.png)](https://renaldisorders.com/ "Renal Disorders")
+- [![The Astrophysics](https://www.annexpublishers.com/images/media-partners/theastrophysics.png)](https://theastrophysics.com/ "The Astrophysics")
+- [![Sleep Physiology](https://www.annexpublishers.com/images/media-partners/sleepphysiology.png)](https://sleepphysiology.com/ "Sleep Physiology")
+- [![Epidemiology](https://www.annexpublishers.com/images/media-partners/epidemiology.png)](https://epidemiology.blog/ "Epidemiology")
+- [![Histology](https://www.annexpublishers.com/images/media-partners/histology.png)](https://histology.blog/ "Histology")
+- [![Cancer Science](https://www.annexpublishers.com/images/media-partners/cancerscience.png)](https://cancerscience.net/ "Cancer Science")
+- [![Vaccine Studies](https://www.annexpublishers.com/images/media-partners/vaccine-studies.png)](https://vaccine-studies.com/ "Vaccine Studies")
+- [![Gynecology](https://www.annexpublishers.com/images/media-partners/gynecology.png)](https://gynecology.blog/ "Gynecology")
+- [![Food Nutrition](https://www.annexpublishers.com/images/media-partners/food-nutrition.png)](https://food-nutrition.blog/ "Food Nutrition")
+- [![Nursing Science](https://www.annexpublishers.com/images/media-partners/nursing-science.png)](https://nursing-science.com/ "Nursing Science")
+- [![Public Health](https://www.annexpublishers.com/images/media-partners/public-health.png)](https://public-health.blog/ "Public Health")
+- [![The Pharma](https://www.annexpublishers.com/images/media-partners/thepharma.png)](https://thepharma.net/ "The Pharma")
+- [![Infectious Disease](https://www.annexpublishers.com/images/media-partners/infectious-disease.png)](https://infect.blog/ "Infectious Diseases")
+- [![Neuro Care](https://www.annexpublishers.com/images/media-partners/neurocare.png)](https://neurocare.blog/ "Neuro Care")
+- [![Catalysis](https://www.annexpublishers.com/images/media-partners/catalysis.png)](https://catalysis.blog/ "Catalysis")
+- [![Neonatal Biology](https://www.annexpublishers.com/images/media-partners/neonatalbiology.png)](https://neonatalbiology.com/ "Neonatal Biology")
+- [![Neonatal Disorders](https://www.annexpublishers.com/images/media-partners/neonataldisorders.png)](https://neonataldisorders.com/ "Neonatal Disorders")
+- [![Mutation](https://www.annexpublishers.com/images/media-partners/mutation.png)](https://mutation.blog/ "Mutation")
+- [![Nanotechnology](https://www.annexpublishers.com/images/media-partners/nanotechnology.png)](https://nanotechnology.blog/ "Nanotechnology")
+- [![Toxicology](https://www.annexpublishers.com/images/media-partners/toxicology.png)](https://toxicology.blog/ "Toxicology")
+- [![Dark Biotechnology](https://www.annexpublishers.com/images/media-partners/darkbiotechnology.png)](https://darkbiotechnology.com/ "Dark Biotechnology")
+- [![Pollution Toxicology](https://www.annexpublishers.com/images/media-partners/pollutiontoxicology.png)](https://pollutiontoxicology.com/ "Pollution Toxicology")
+- [![Cell Biology](https://www.annexpublishers.com/images/media-partners/cellbiology.png)](https://cellbiology.blog/ "Cell Biology")
+- [![Bioanalytical Research](https://www.annexpublishers.com/images/media-partners/bioanalyticalresearch.png)](https://bioanalyticalresearch.com/ "Bioanalytical Research")
+- [![Renal Disorders](https://www.annexpublishers.com/images/media-partners/renaldisorders.png)](https://renaldisorders.com/ "Renal Disorders")
+- [![The Astrophysics](https://www.annexpublishers.com/images/media-partners/theastrophysics.png)](https://theastrophysics.com/ "The Astrophysics")
+- [![Sleep Physiology](https://www.annexpublishers.com/images/media-partners/sleepphysiology.png)](https://sleepphysiology.com/ "Sleep Physiology")
+- [![Epidemiology](https://www.annexpublishers.com/images/media-partners/epidemiology.png)](https://epidemiology.blog/ "Epidemiology")
+- [![Histology](https://www.annexpublishers.com/images/media-partners/histology.png)](https://histology.blog/ "Histology")
+
+1
+
+Opens ChatThis icon Opens the chat window.
+
+![👋](https://cdn.jsdelivr.net/emojione/assets/png/1f44b.png?v=2.2.7) Hi! How can we help?
+
+![Chat attention grabber](https://embed.tawk.to/_s/v4/assets/images/attention-grabbers/168-r-br.svg)

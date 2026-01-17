@@ -1,0 +1,42 @@
+{
+  "type": "web_search_results",
+  "tool": "firecrawl",
+  "query": "Journal of Biochemistry and Biophysics JBB publisher ISSN",
+  "results": [
+    {
+      "title": "Journal of Biochemistry and Biophysics | Open Access Journal | Annex Publishers",
+      "url": "https://www.annexpublishers.com/journals/journal-of-biochemistry-and-biophysics/jhome.php",
+      "domain": "www.annexpublishers.com",
+      "description": "The Journal of Biochemistry and Biophysics is an instructional journal providing a chance to researchers and scientists to explore the advanced and latest research developments within the field of Biochemistry and Biophysics. Journal of Biochemistry and Biophysics publishes the best quality scientific articles amalgamating broad vary of fields together with the fields associated with Biochemistry and Biophysics.",
+      "favicon_url": null
+    },
+    {
+      "title": "Journal of Biochemistry and Biophysics JBB | Scholar9",
+      "url": "https://scholar9.com/journal/journal-of-biochemistry-and-biophysics-2427",
+      "domain": "scholar9.com",
+      "description": "Journal of Biochemistry and Biophysics (JBB) is a peer reviewed open access journal providing a chance to researchers and scientists to explore the advanced and latest research developments within the... Journal of Biochemistry and Biophysics is indexed in Google Scholar, ISSN Portal, DOI Foundation",
+      "favicon_url": "https://scholar9.com/assets/images/favicon.png"
+    },
+    {
+      "title": "Articles in Press | Journal of Biochemistry and Biophysics | Open Access",
+      "url": "https://www.annexpublishers.co/journals/journal-of-biochemistry-and-biophysics/articles-in-press.php",
+      "domain": "www.annexpublishers.co",
+      "description": "Journal of biochemistry and biophysics (JBB) stacks the articles under the process in article in press.",
+      "favicon_url": null
+    },
+    {
+      "title": "Previous Issue | Journal of Biochemistry and Biophysics | Open Access",
+      "url": "https://www.annexpublishers.com/journals/journal-of-biochemistry-and-biophysics/previous-issue.php",
+      "domain": "www.annexpublishers.com",
+      "description": "Journal of biochemistry and biophysics (JBB) shows all the previous articles.",
+      "favicon_url": null
+    },
+    {
+      "title": "Red Flower Publication Pvt. Ltd.",
+      "url": "https://rfppl.co.in/product_details_new.php?jid=68&country=India&subs_type=&year=2025&syear=2025",
+      "domain": "rfppl.co.in",
+      "description": "The Red Flower Publication Pvt. Ltd. is a Delhi (India) based medical and scientific publishing group, delivering services of highest quality with honesty and integrity",
+      "favicon_url": "https://rfppl.co.in/public/uploads/958315168Fav.svg"
+    }
+  ]
+}

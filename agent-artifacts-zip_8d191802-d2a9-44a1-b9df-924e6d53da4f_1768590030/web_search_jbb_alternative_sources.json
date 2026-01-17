@@ -1,0 +1,21 @@
+{
+  "type": "web_search_results",
+  "tool": "firecrawl",
+  "query": "\"Journal of Biochemistry and Biophysics\" ISSN 2576-7623 citation scholarly database",
+  "results": [
+    {
+      "title": "(PDF) Recent Advances of Phytochemicals and Their Applications for Antiviral Therapy",
+      "url": "https://www.researchgate.net/publication/382635691_Recent_Advances_of_Phytochemicals_and_Their_Applications_for_Antiviral_Therapy",
+      "domain": "www.researchgate.net",
+      "description": "PDF | Phytochemicals are chemicals produced by plants to serve as a defense against fungal, bacterial, and viral plant diseases. Currently, our world... | Find, read and cite all the research you need on ResearchGate",
+      "favicon_url": "https://c5.rgstatic.net/m/42199702882742/images/favicon/favicon-32x32.png"
+    },
+    {
+      "title": "Annex Publishers | Open Access Journals",
+      "url": "https://annexpublisher.com/",
+      "domain": "annexpublisher.com",
+      "description": "Choose a journal to submit your manuscript for the peer review process. See all list of open access journals here.",
+      "favicon_url": "https://annexpublisher.com/assets/images/favicon.ico"
+    }
+  ]
+}

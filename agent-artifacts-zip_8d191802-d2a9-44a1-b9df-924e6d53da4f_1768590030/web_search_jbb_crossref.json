@@ -1,0 +1,42 @@
+{
+  "type": "web_search_results",
+  "tool": "firecrawl",
+  "query": "Journal Biochemistry Biophysics CrossRef DOI database citation",
+  "results": [
+    {
+      "title": "Guide for authors - Biochemistry and Biophysics Reports - ISSN 2405-5808 | ScienceDirect.com by Elsevier",
+      "url": "https://www.sciencedirect.com/journal/biochemistry-and-biophysics-reports/publish/guide-for-authors",
+      "domain": "www.sciencedirect.com",
+      "description": "Read the latest articles of Biochemistry and Biophysics Reports at ScienceDirect.com, Elsevier\u2019s leading platform of peer-reviewed scholarly literature",
+      "favicon_url": "https://sdfestaticassets-us-east-1.sciencedirectassets.com/shared-assets/103/images/favSD.ico"
+    },
+    {
+      "title": "DOI Citation Formatter",
+      "url": "https://citation.doi.org/",
+      "domain": "citation.doi.org",
+      "description": null,
+      "favicon_url": "https://citation.doi.org/images/favicons/favicon.ico"
+    },
+    {
+      "title": "Crossref Metadata Search",
+      "url": "https://search.crossref.org/",
+      "domain": "search.crossref.org",
+      "description": null,
+      "favicon_url": "https://assets.crossref.org/favicon/favicon-32x32.png"
+    },
+    {
+      "title": "Journal of Biochemistry and Biophysics JBB | Scholar9",
+      "url": "https://scholar9.com/journal/journal-of-biochemistry-and-biophysics-2427",
+      "domain": "scholar9.com",
+      "description": "Journal of Biochemistry and Biophysics (JBB) is a peer reviewed open access journal providing a chance to researchers and scientists to explore the advanced and latest research developments within the... Journal of Biochemistry and Biophysics is indexed in Google Scholar, ISSN Portal, DOI Foundation",
+      "favicon_url": "https://scholar9.com/assets/images/favicon.png"
+    },
+    {
+      "title": "(IUCr) IUCr Journals abstracting/indexing details ",
+      "url": "https://journals.iucr.org/services/abstracting.html",
+      "domain": "journals.iucr.org",
+      "description": null,
+      "favicon_url": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "type": "web_search_results",
+  "tool": "firecrawl",
+  "query": "Journal of Biochemistry and Biophysics 2576-7623 WorldCat library catalog",
+  "results": [
+    {
+      "title": "Journal of Biochemistry and Biophysics | Open Access Journal | Annex Publishers",
+      "url": "https://www.annexpublishers.com/journals/journal-of-biochemistry-and-biophysics/jhome.php",
+      "domain": "www.annexpublishers.com",
+      "description": "The Journal of Biochemistry and Biophysics is an instructional journal providing a chance to researchers and scientists to explore the advanced and latest research developments within the field of Biochemistry and Biophysics. Journal of Biochemistry and Biophysics publishes the best quality scientific articles amalgamating broad vary of fields together with the fields associated with Biochemistry and Biophysics.",
+      "favicon_url": null
+    },
+    {
+      "title": "WorldCat.org",
+      "url": "https://search.worldcat.org/",
+      "domain": "search.worldcat.org",
+      "description": "WorldCat.org is a global catalog of library materials. You can search for books, music, video, articles and much more at libraries near you.",
+      "favicon_url": "https://search.worldcat.org/favicons/android-chrome-192x192.png"
+    },
+    {
+      "title": "Previous Issue | Journal of Biochemistry and Biophysics | Open Access",
+      "url": "https://www.annexpublishers.com/journals/journal-of-biochemistry-and-biophysics/previous-issue.php",
+      "domain": "www.annexpublishers.com",
+      "description": "Journal of biochemistry and biophysics (JBB) shows all the previous articles.",
+      "favicon_url": null
+    },
+    {
+      "title": "Journal of Biochemistry and Biophysics JBB | Scholar9",
+      "url": "https://scholar9.com/journal/journal-of-biochemistry-and-biophysics-2427",
+      "domain": "scholar9.com",
+      "description": "Journal of Biochemistry and Biophysics (JBB) is a peer reviewed open access journal providing a chance to researchers and scientists to explore the advanced and latest research developments within the... Journal of Biochemistry and Biophysics is indexed in Google Scholar, ISSN Portal, DOI Foundation",
+      "favicon_url": "https://scholar9.com/assets/images/favicon.png"
+    },
+    {
+      "title": "Journal of Biochemistry and Biophysics | Open Access Journal | Annex Publishers",
+      "url": "https://www.annexpublisher.com/lp/biochemistry-and-biophysics/",
+      "domain": "www.annexpublisher.com",
+      "description": "The Journal of Biochemistry and Biophysics is an instructional journal providing a chance to researchers and scientists to explore the advanced and latest research developments within the field of Biochemistry and Biophysics. Journal of Biochemistry and Biophysics publishes the best quality scientific articles amalgamating broad vary of fields together with the fields associated with Biochemistry and Biophysics. ",
+      "favicon_url": "https://www.annexpublishers.com/favicon.ico"
+    }
+  ]
+}

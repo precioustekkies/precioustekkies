@@ -1,0 +1,42 @@
+{
+  "type": "web_search_results",
+  "tool": "firecrawl",
+  "query": "\"Journal of Biochemistry and Biophysics\" site:scholar.google.com",
+  "results": [
+    {
+      "title": "\u202aProf Dr Rita Ghosh\u202c - \u202aGoogle Scholar\u202c",
+      "url": "https://scholar.google.com/citations?user=lhn7CWcAAAAJ&hl=en",
+      "domain": "scholar.google.com",
+      "description": "\u202aProfessor in Biophsics &  former Dean, Faculty of Science, University of Kalyani, Kalyani Nadia\u202c - \u202a\u202aCited by 1,219\u202c\u202c - \u202aradiation biology\u202c - \u202acancer biology\u202c - \u202amolecular biology\u202c - \u202abiophysics\u202c",
+      "favicon_url": "https://scholar.google.com/favicon.ico"
+    },
+    {
+      "title": "\u202aDr. Mohd Shafique\u202c - \u202aGoogle Scholar\u202c",
+      "url": "https://scholar.google.com/citations?user=CkTi_ncAAAAJ&hl=en",
+      "domain": "scholar.google.com",
+      "description": "\u202aIndian Institute of Technology, Ropar\u202c - \u202a\u202aCited by 31\u202c\u202c - \u202aBiochemistry\u202c - \u202aNMR Spectroscopy\u202c - \u202aStructural Biology\u202c - \u202aStructural Bioinformatics\u202c - \u202aImmuno-informatics\u202c",
+      "favicon_url": "https://scholar.google.com/favicon.ico"
+    },
+    {
+      "title": "\u202aVinod Kumar Yadav\u202c - \u202aGoogle Scholar\u202c",
+      "url": "https://scholar.google.com/citations?user=uKSjRogAAAAJ&hl=en",
+      "domain": "scholar.google.com",
+      "description": "\u202aScientist, CSIR - National Institute of Science Communication & Policy Research\u202c - \u202a\u202aCited by 367\u202c\u202c - \u202aScience Communication\u202c - \u202aPolicy Research\u202c - \u202aPlant-Microbe Interaction & Molecular Biology\u202c",
+      "favicon_url": "https://scholar.google.com/favicon.ico"
+    },
+    {
+      "title": "\u202aN.JAYANTHI BAI\u202c - \u202aGoogle Scholar\u202c",
+      "url": "https://scholar.google.com/citations?user=HIdo8iEAAAAJ&hl=en",
+      "domain": "scholar.google.com",
+      "description": "\u202aProfessor\u202c - \u202a\u202aCited by 268\u202c\u202c - \u202aMedicine Clinical Biochemistry\u202c",
+      "favicon_url": "https://scholar.google.com/favicon.ico"
+    },
+    {
+      "title": "\u202atanmay saha\u202c - \u202aGoogle Scholar\u202c",
+      "url": "https://scholar.google.com/citations?user=QNMjP1UAAAAJ&hl=en",
+      "domain": "scholar.google.com",
+      "description": "\u202aAssociate Professor, Biochemistry\u202c - \u202a\u202aCited by 172\u202c\u202c",
+      "favicon_url": "https://scholar.google.com/favicon.ico"
+    }
+  ]
+}

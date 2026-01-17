@@ -1,0 +1,42 @@
+{
+  "type": "web_search_results",
+  "tool": "firecrawl",
+  "query": "\"Journal of Biochemistry and Biophysics\" published article DOI citation example",
+  "results": [
+    {
+      "title": "\n\t\tPhytochemical Screening And Anticancer Efficacy Of Boerhavia Diffusa: A Study In Hepatocellular Carcinoma-Induced Rat Model\n\t\t\t\t\t\t\t| Journal of Neonatal Surgery\n\t\t\t",
+      "url": "https://www.jneonatalsurg.com/index.php/jns/article/view/3107?articlesBySimilarityPage=1",
+      "domain": "www.jneonatalsurg.com",
+      "description": "Journal of Neonatal Surgery is a peer-reviewed and open-access electronic journal. Only a few journals are being published on Neonatal Surgery especially from a developing country,  which justifies the need of a new journal on this subject.",
+      "favicon_url": "https://www.jneonatalsurg.com/public/journals/1/favicon_en_US.png"
+    },
+    {
+      "title": "HRPUB | International Journal of Biochemistry and Biophysics(CEASE PUBLICATION) ",
+      "url": "https://www.hrpub.org/journals/jour_guidelines.php?id=8",
+      "domain": "www.hrpub.org",
+      "description": null,
+      "favicon_url": "https://www.hrpub.org/images/hrpublogo.ico"
+    },
+    {
+      "title": "The Importance of Biophysics and Biochemistry in Human ...",
+      "url": "https://rfppl.co.in/public/uploads/article_issue/1754650220_6895d66c584ac.pdf?srsltid=AfmBOorgP2UL6U1lFSlJGIS_RuaeE8oKWqfE0IyxhZoY7Mk99ZAL_CXA",
+      "domain": "rfppl.co.in",
+      "description": "Journal of Biochemistry and Biophysics. Volume 10 Number 1, January - June 2025. DOI: 10.21088/rfpjbb.2582-3558.10125.4. The Importance of ...",
+      "favicon_url": ""
+    },
+    {
+      "title": "Guidelines | Open Access Journals | Annex Publishers",
+      "url": "https://www.annexpublishers.com/guidelines.php",
+      "domain": "www.annexpublishers.com",
+      "description": "Annex Publishers author guidelines suggesting instructions for authors.",
+      "favicon_url": null
+    },
+    {
+      "title": "(PDF) Review of Biochemistry of Dopamine and it's Biological Significance",
+      "url": "https://www.researchgate.net/publication/397602147_Review_of_Biochemistry_of_Dopamine_and_it's_Biological_Significance",
+      "domain": "www.researchgate.net",
+      "description": "PDF | 2024;9(1): 000-000. Abstract The chemical formula of dopamine is C 6 H 3 (OH) 2-CH 2-CH 2-NH 2. Normally dopamine is abbreviated as DA, that is,... | Find, read and cite all the research you need on ResearchGate",
+      "favicon_url": "https://c5.rgstatic.net/m/42199702882742/images/favicon/favicon-32x32.png"
+    }
+  ]
+}
